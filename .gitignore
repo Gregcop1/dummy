@@ -17,8 +17,10 @@ js/*.js.map
 js/*.min.js
 js/components/.js
 
+grunt
 
 !.gitkeep
 .db_thumb
 .DS_Store
 ._*
+.idea
